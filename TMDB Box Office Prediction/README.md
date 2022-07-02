@@ -3,7 +3,7 @@
 # Introduction
 The purpose of this project is to estimate revenue of movies by implementing advanced prediction models and machine learning. The dataset is provided by Kaggle, which involves a training data with 3000 rows and a test data set with 7398 rows. Both of them consist of 22 features which include budget, popularity,runtime, tagline, orignial language etc. The goal is to minimize the difference between prediction and the ground truth.
 
-Data Download Link: https://www.kaggle.com/c/tmdb-box-office-prediction
+Data Download Link: https://www.kaggle.com/competitions/tmdb-box-office-prediction/data
 
 # Attributes
 | Column ID |         Column Name        | Data type |
